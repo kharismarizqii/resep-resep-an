@@ -11,8 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RecipeDetailActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".ui.resep.ResepActivity"></activity>
+        <activity android:name=".ui.detail.ResepDetailActivity" />
+        <activity android:name=".ui.masakan.MasakanActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

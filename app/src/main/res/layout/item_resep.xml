@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginVertical="8dp"
+    app:cardBackgroundColor="@color/colorAccent"
+    app:cardCornerRadius="4dp"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <TextView
+        android:id="@+id/tv_nama_resep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Kharisma Rizqi Bakhittah"
+        android:layout_margin="16dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"/>
+
+</androidx.cardview.widget.CardView>

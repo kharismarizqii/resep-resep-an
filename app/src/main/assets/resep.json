@@ -1,0 +1,451 @@
+{
+    "jenis_masakan": 
+    [
+        {
+            "id" : 1,
+            "nama" : "Olahan Nasi",
+            "image" : "https://www.dapurumami.com/uploads/recipe/jJr8d/Final%20Plating%20Logo.jpg",
+            "list_resep" : [
+                {
+                    "id": 1,
+                    "nama": "Nasi Bakar Teriyaki ala SAORI",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/WEXHi/7-Februari_banner.png",
+                    "porsi" : 4,
+                    "gizi" : {
+                        "kalori" : 1268,
+                        "protein" : 45,
+                        "karbo" : 199,
+                        "lemak" : 29,
+                        "serat" : 2
+                    },
+                    "rating" : 4.5,
+                    "desc" : "Sebagai makanan pokok orang Indonesia, nasi sudah menjadi salah satu makanan yang wajib disajikan di meja makan. Supaya nggak bosan, olah nasi jadi lebih istimewa dengan menghidangkan nasi bakar bercita rasa khas oriental ala SAORI® Saus Teriyaki. Resep ini bisa jadi pilihan yang pas untuk keluarga!",
+                    "bahan" : "400 gr Nasi putih\n1 bks SAORI® Saus Teriyaki\n100 gr Tuna suwir\n50 gr Jagung manis pipil\n2sdm Minyak goreng\n4 lbr Daun pisang\n1 bh Cabai merah",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris cabai merah, sisihkan"
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Bahan isian: Panaskan minyak goreng, tumis cabai merah hingga layu. Masukkan jagung pipil, tuna suwir dan SAORI® Saus Teriyaki, aduk rata. Masak hingga matang."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Siapkan daun pisang, isi dengan ¼ nasi putih dan bahan isian. Gulung, kemudian kunci kedua ujungnya dengan tusukan."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Panggang hingga daun pisang berwarna kecokelatan. Angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nama": "Nasi Kepal Korea Ala Sajiku®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/crAgE/Nasi%20Kepal%20Korea%20Resep%20Website.jpg",
+                    "porsi" : 8,
+                    "gizi" : {
+                        "kalori" : 840,
+                        "protein" : 18,
+                        "karbo" : 131,
+                        "lemak" : 26,
+                        "serat" : 2
+                    },
+                    "rating" : 4.5,
+                    "desc" : "Sudah ada ide mau masak apa untuk si Kecil untuk akhir pekan ini ? Yuk buat Nasi Kepal Korea ala Sajiku®. Selain mudah membuatnya, Mama bisa memasak bareng si Kecil juga loh. Pakai Sajiku® Bumbu Nasi Goreng Rasa Ayam, menjadikan nasi goreng Mama lebih praktis dan lengkap bumbunya! Jadi tunggu apalagi Ma ? Selamat mencoba di rumah yaa, Ma!",
+                    "bahan" : "300 gr Nasi pulen\n1 bks  Sajiku® Bumbu Nasi Goreng Rasa Ayam \n1 bh  Sosis ayam\n50 gr  Nanas\n20 gr  Wortel\n¼ bh Bombay cincang\n1 btg Daun bawang\n2 sdm Minyak goreng\n¼ lbr  Irisan nori",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Potong sosis, nanas dan wortel ukuran dadu kecil. cincang bawang bombai dan iris daun bawang. Sisihkan"
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak, masukkan bawang bombai, sosis, wortel, dan nanas, tumis sebentar."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan nasi, daun bawang, dan Sajiku® Bumbu Nasi Goreng Rasa Ayam. Aduk rata, angkat dan tiriskan."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Kepal nasi berbentuk bola kecil, tambahkan nori diatasnya, lakukan hingga nasi goreng habis, sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nama": "Nasi Goreng Sambal Matah Ala Sajiku®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/wWyN9/resep-website.jpg",
+                    "porsi" : 2,
+                    "gizi" : {
+                        "kalori" : 955,
+                        "protein" : 33,
+                        "karbo" : 113,
+                        "lemak" : 39,
+                        "serat" : 1
+                    },
+                    "rating" : 4.6,
+                    "desc" : "Suka makan hidangan yang pedas? Kalau iya, Mama wajib mencoba olahan nasi goreng khas Bali ini! Dengan campuran sambal matah, toping sosis dan kol yang segar, serta Sajiku® Bumbu Nasi Goreng Rasa Ayam menciptakan masakan lezat dengan cara yang praktis!",
+                    "bahan" : "250 gr Nasi\n100 gr Kol\n1 bh Sosis ayam\n1 bks Sajiku® Bumbu Nasi Goreng Rasa Ayam\n2 sdm Minyak goreng\n5 bh Cabai rawit\n5 siung Bawang merah\n1 btg Sereh\n1/2 sdt Terasi",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris kol, sereh, bawang merah, cabai rawit, dan sosis ayam, sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak, tumis terasi, bawang merah, cabai, dan sereh hingga matang."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan nasi, sosis ayam, dan kol."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Tambahkan Sajiku® Bumbu Nasi Goreng Rasa Ayam, aduk hingga rata. Angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nama": "Nasi Mentai Ala Mayumi®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/zH5fe/2-Oktober-2019-Nasi%20Mentai%20ala%20Mayumi-IGs.jpg",
+                    "porsi" : 2,
+                    "gizi" : {
+                        "kalori" : 2097,
+                        "protein" : 18,
+                        "karbo" : 124,
+                        "lemak" : 169,
+                        "serat" : 1
+                    },
+                    "rating" : 4.6,
+                    "desc" : "Mama pernah dengar saus Mentai? Saus yang dibuat dari campuran telur ikan yang dicampur dengan mayonais ini cukup terkenal di daerah Jepang. Biasanya, saus mentai dijadikan sebagai topping atau dicampur dengan nasi dan telur ikan tarako. Untuk mencicipi menu ini, tidak perlu jauh-jauh ke Jepang lho. Mama bisa bikin nasi mentai sendiri dengan campuran Mayumi® Pedas sebagai kunci resepnya. Dengan Mayumi® Pedas, nasi mentai Mama menjadi lebih lezat dan creamy. Selamat mencoba masak Nasi Mentai Ala Mayumi® di rumah yaa, Ma.",
+                    "bahan" : "300 gr Nasi\n2 bh Sosis ayam\n180 gr Mayumi® Pedas\n40 gr Mayumi®\n1/2 lbr Nori\n2 sdm Kecap asin\n1 sdt Cabai bubuk",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris sosis ayam, sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Masukkan nasi, sosis ayam, kecap asin, nori, 40 gr Mayumi® Pedas, dan 40 gr Mayumi® ke dalam wadah. Aduk rata dan tuang ke wadah tahan panas."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Tambahkan Mayumi® Pedas diatasnya sebagai topping dan taburi dengan cabai bubuk."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Panggang dalam wajan anti lengket dengan sedikit air hingga matang. Angkat dan sajikan."
+                        }
+                    ]
+                }
+                
+            ]
+        },
+
+        {
+            "id" : 2,
+            "nama" : "Olahan Mi/Bihun/Pasta",
+            "image" : "https://www.dapurumami.com/uploads/recipe/l3ar6/18-Oktober-2019-Mie%20Goreng%20Sambal%20matah%20ala%20Sajiku-Web.jpg",
+            "list_resep" : [
+                {
+                    "id": 1,
+                    "nama": "Bihun Kuah Tom Yum Ala AJI‑NO‑MOTO®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/HrteP/BKTY.jpg",
+                    "porsi" : 4,
+                    "gizi" : {
+                        "kalori" : 835,
+                        "protein" : 14,
+                        "karbo" : 138,
+                        "lemak" : 25,
+                        "serat" : 0
+                    },
+                    "rating" : 4.2,
+                    "desc" : "Bosan dengan hidangan bihun yang itu-itu saja? Coba kreasikan bihun dengan kuah tom yum yuk Ma! Bumbui dengan AJI‑NO‑MOTO® yang terbuat dari bahan alami untuk menyedapkan bihun kuah Tom Yum buatan Mama!",
+                    "bahan" : "100 gr Bihun\n8 bh Bakso ikan\n50 gr Sawi hijau\n30 gr Tauge\n1 sdt AJI-NO-MOTO®\n5 sdm Air jeruk nipis\n1 btg Sereh\n8 lbr Daun jeruk\n1 sdm Garam\n40 gr Gula\n700 ml Air\n2 sdm Mi\n4 bh Cabai merah keriting\n50 ml Air",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Potong sawi hijau, haluskan cabai merah keriting dan air 50 ml , sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak goreng, tumis bumbu halus hingga harum."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan 700 ml air, air jeruk nipis , gula, sereh, daun jeruk, AJI‑NO‑MOTO®, dan garam, masak hingga mendidih."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Tambahkan bakso ikan, sawi hijau, tauge, dan bihun, aduk sebentar, angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nama": "Mie Kangkung Ala Sajiku®",
+                    "waktu" : "60 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/6gU0X/20200929-Mie%20Kangkung_940x576px.jpg",
+                    "porsi" : 2,
+                    "gizi" : {
+                        "kalori" : 587,
+                        "protein" : 31,
+                        "karbo" : 27,
+                        "lemak" : 41,
+                        "serat" : 4
+                    },
+                    "rating" : 3.8,
+                    "desc" : "Siapa sih yang tidak suka masakan mie? Nah, supaya lebih lengkap kandungan nutrisinya Mama bisa coba menu Mie Kangkung ala Sajiku. Bahan-bahannya mudah, ditambah dengan bumbu Sajiku yang praktis, rasanya pasti tambah istimewa dan disuka seluruh keluarga.",
+                    "bahan" : "100 gr Mie kuning besar rebus\n1 ikat Kangkung\n100 gr Fillet ayam\n1 bks Sajiku® Bumbu Nasi Goreng Rasa Ayam\n6 bh Jamur kancing\n50 gr Tauge\n500 ml Air\n3 sdm Minyak goreng\n2 sdm Kecap asin\nBawang goreng\nJeruk limau\nSambal",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris-iris jamur dan ayam, sishkan. Masukkan ayam kedalam wadah, beri kecap asin, aduk rata, sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak goreng, masukkan ayam dan jamur, tumis hingga berubah warna."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Tambahkan air dan Sajiku® Bumbu Nasi Goreng Rasa Ayam , masak hingga mendidih."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Masukkan mie kuning, kangkung, dan tauge, aduk sebentar, angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nama": "Pizza Mie Goreng Ala Sajiku®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/QA77k/28-Februari_banner.png",
+                    "porsi" : 4,
+                    "gizi" : {
+                        "kalori" : 1381,
+                        "protein" : 96,
+                        "karbo" : 252,
+                        "lemak" : 56,
+                        "serat" : 22
+                    },
+                    "rating" : 4.5,
+                    "desc" : "Biar nggak bosan dengan olahan mie yang cuma direbus atau goreng, Mama bisa coba olah mie menjadi pizza. Dibumbui dengan Sajiku® Tepung Bumbu Bakwan Crispy yang dibuat dari perpaduan tepung dan rempah pilihan, membuat proses memasak pizza mie jadi lebih mudah. Cocok disajikan sebagai menu sarapan keluarga atau isian bekal si Kecil.",
+                    "bahan" : "130 gr Mie rebus\n1 bks Sajiku® Tepung Bumbu Bakwan Crispy 90 gr\n1 bh Sosis sapi\n200 ml Minyak goreng\n130 ml Air\nBahan pelengkap:\nSaus tomat\n20 gr Keju parut\n20 gr Seledri cincang",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris kol, sereh, bawang merah, cabai rawit, dan sosis ayam, sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak, tumis terasi, bawang merah, cabai, dan sereh hingga matang."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan nasi, sosis ayam, dan kol."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Tambahkan Sajiku® Bumbu Nasi Goreng Rasa Ayam, aduk hingga rata. Angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nama": "Mie Goreng Sambal Matah Ala Sajiku®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/l3ar6/18-Oktober-2019-Mie%20Goreng%20Sambal%20matah%20ala%20Sajiku-Web.jpg",
+                    "porsi" : 2,
+                    "gizi" : {
+                        "kalori" : 869,
+                        "protein" : 34,
+                        "karbo" : 17,
+                        "lemak" : 37,
+                        "serat" : 1
+                    },
+                    "rating" : 4.6,
+                    "desc" : "Masak mie hanya dengan bumbu kecap itu sudah biasa, ingin mencoba yang baru? Saatnya kreasikan mie goreng dengan sambal matah untuk mencoba perpaduan rasa pedas khas Bali! Jangan lupa pakai Sajiku® Nasi Goreng Rasa Ayam untuk membuat mie goreng sambal matah Mama menjadi lebih praktis dan lezat! Karena Sajiku® Bumbu Nasi Goreng Rasa Ayam praktis dan lengkap bumbunya! Bawang merah yang terdapat di dalam sambal matah juga dapat mencegah resiko kanker loh Ma!",
+                    "bahan" : "200 gr Mie telur rebus\n2 bh Telur kocok\n1 bks Sajiku® Bumbu Nasi Goreng Rasa Ayam\n2 bh Sosis ayam\n2 sdm Minyak goreng\nSambal matah:\n3 bh Cabai merah besar\n8 siung Bawang merah\n5 bh Cabai rawit\n2 btg Sereh\n1 sdt Terasi",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris bawang merah, cabai merah besar, cabai rawit, sereh, dan sosis. sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak goreng, orak arik telur hingga matang. Sisihkan di pinggir wajan."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan bawang merah, cabai merah besar, cabai rawit, sereh, terasi, dan sosis ayam. Aduk rata."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Masukkan mie telur rebus dan Sajiku® Bumbu Nasi Goreng Rasa Ayam, aduk rata, angkat dan sajikan."
+                        }
+                    ]
+                }
+                
+            ]
+        },
+
+        {
+            "id" : 3,
+            "nama" : "Olahan Ikan/Seafood",
+            "image" : "https://www.dapurumami.com/uploads/recipe/bAc9i/13-September-2019-Resep-Web.jpg",
+            "list_resep" : [
+                {
+                    "id": 1,
+                    "nama": "Bakwan Tahu Udang Ala Sajiku®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/Yuo3X/BTU-Cover_940x576px.jpg",
+                    "porsi" : 7,
+                    "gizi" : {
+                        "kalori" : 754,
+                        "protein" : 61,
+                        "karbo" : 248,
+                        "lemak" : 71,
+                        "serat" : 22
+                    },
+                    "rating" : 4.7,
+                    "desc" : "Siapa bilang tahu putih hanya bisa di goreng biasa saja?  Sesekali, coba yuk kreasikan menjadi  bakwan! Biar renyah, lezat dan lebih bergizi, campurkan Sajiku® Tepung Bumbu Bakwan Crispy dan udang serta sayur-sayuran di dalamnya. Dengan Sajiku® Tepung Bumbu, kriuuukk, enaknya sampai dalam.",
+                    "bahan" : "80 gr Tahu putih\n50 gr Udang cincang\n2 sdm Kacang polong\n20 gr Wortel\n1 bks Sajiku® Tepung Bumbu Bakwan Crispy 90gr\n500 ml Minyak goreng\n130 ml Air putih",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Potong wortel bentuk dadu kecil, hancurkan tahu menggunakan garpu, sisihkan"
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Campurkan Sajiku® Tepung Bumbu Bakwan Crispy dengan air, aduk rata"
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan wortel, tahu, udang cincang, dan kacang polong, aduk rata"
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Panaskan minyak goreng, masukkan adonan, goreng hingga matang dan berwarna kuning keemasan"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nama": "Sambal Cumi Kecombrang Ala AJI‑NO‑MOTO®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/ewFCM/19-Februari_banner.png",
+                    "porsi" : 3,
+                    "gizi" : {
+                        "kalori" : 591,
+                        "protein" : 33,
+                        "karbo" : 41,
+                        "lemak" : 43,
+                        "serat" : 9
+                    },
+                    "rating" : 4.6,
+                    "desc" : "Dibalik rasanya yang enak, cumi-cumi mengandung beribu manfaat lho, Ma. Mulai dari vitamin sampai mineral yang penting untuk perkembangan dan kesehatan tubuh. Kali ini coba olah cumi-cumi dengan sambal kecombrang yuk, Ma! Bumbui dengan AJI‑NO‑MOTO® yang dibuat dengan bahan alami, bikin masakan Mama jadi lebih lezat dan istimewa!",
+                    "bahan" : "150 gr Cumi asin rebus\n1 sdt AJI-NO-MOTO®\n1 btg Kecombrang\n2 lbr Daun jeruk\n100 ml Minyak goreng\nBumbu halus:\n12 bh Cabai rawit\n8 bh Cabai merah keriting\n10 siung Bawang merah\n6 siung Bawang putih\n2 bh Tomat",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris cumi asin rebus dan kecombrang. Sisihkan.."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Haluskan cabai merah keriting, cabai rawit, bawang merah, bawang putih, tomat, dan air."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Panaskan minyak goreng. Tumis bumbu halus, daun jeruk, dan kecombrang."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Masukkan cumi asin rebus dan AJI‑NO‑MOTO®. Masak hingga matang lalu angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nama": "Kerang Hijau Saus Tiram Ala SAORI®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/FllS1/Kerang%20Hijau%20Saus%20Tiram%20Ala%20SAORI®_940x576px.jpg",
+                    "porsi" : 4,
+                    "gizi" : {
+                        "kalori" : 521,
+                        "protein" : 36,
+                        "karbo" : 11,
+                        "lemak" : 37,
+                        "serat" : 0
+                    },
+                    "rating" : 4.5,
+                    "desc" : "Tahukah Mama? Kerang dapat memperkuat sistem kekebalan tubuh, lho. Pas banget Mama hidangkan saat cuaca sedang tidak menentu. Untuk menghasilkan rasa gurih asin khas oriental yang istimewa, tambahkan SAORI® Saus Tiram yang terbuat dari ekstrak tiram asli. karena SAORI®, gurihnya beda!",
+                    "bahan" : "250 gr Kerang hijau\n1 bks SAORI® Saus Tiram\n1 bh Cabai merah besar\n1 ruas Jahe\n150 ml Air\n3 sdm Minyak Goreng",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris cabai merah besar, geprek jahe, sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak goreng. Masukkan cabai merah besar dan jahe, tumis sebentar."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan kerang hijau."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Tambahkan air dan SAORI® Saus Tiram, masak hingga matang. Angkat dan sajikan."
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nama": "Tumis Cumi Hitam Ala AJI‑NO‑MOTO®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/ggb4Z/23-Oktober-2019-Tumis%20Cumi%20Hitam%20ala%20Ajinomoto-Web.jpg",
+                    "porsi" : 2,
+                    "gizi" : {
+                        "kalori" : 466,
+                        "protein" : 34,
+                        "karbo" : 10,
+                        "lemak" : 32,
+                        "serat" : 0
+                    },
+                    "rating" : 4.5,
+                    "desc" : "Mama punya persediaan cumi hitam di kulkas? Masak tumis cumi hitam yuk. Jangan lupa untuk menambahkan AJI‑NO‑MOTO® secukupnya untuk membuat tumis cumi Mama menjadi lebih umami! Selain itu cumi mengandung protein yang merupakan sumber nutrisi penting untuk kekebalan tubuh dan membangun sel serta jaringan lho, Ma.",
+                    "bahan" : "200 gr Cumi-cumi\n1 bh Tomat merah kecil, potong\n3 bh Cabai rawit merah\n1 bh Cabai hijau besar\n1 ruas Lengkuas\n3 siung Bawang merah, iris\n3 siung Bawang putih, iris\n1 ruas Jahe\n1 sdt AJI-NO-MOTO®\n1/4 sdt Garam\n1/2 sdt Merica\n50 ml Air\n3 sdm Minyak Goreng",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris cabai hijau besar, cabai rawit, geprek lengkuas dan jahe, bawang putih, dan bawang merah. Lalu geprek lengkuas, jahe dan potong-potong tomat."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak goreng. Tumis bawang putih, bawang merah, cabai hijau besar, cabai rawit, lengkuas dan jahe hingga harum."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Masukkan cumi-cumi, aduk rata. AJI‑NO‑MOTO®, garam, dan merica, aduk rata."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Masukkan AJI‑NO‑MOTO®, garam, dan merica lalu aduk rata. Tambahkan air dan potongan tomat. Masak hingga matang."
+                        }
+                    ]
+                }
+                
+            ]
+        }
+    ]
+}
