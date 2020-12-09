@@ -37,6 +37,7 @@ class ResepDetailActivity : AppCompatActivity() {
         val gizi = resep?.gizi
         binding.apply {
             tvName.text = resep?.nama
+            tvWaktu.text = resep?.waktu
             tvRating.text = resep?.rating.toString()
             tvKarbo.text = "${gizi?.karbo.toString()} gram"
             tvKalori.text = "${gizi?.kalori} kkal"
