@@ -8,9 +8,11 @@ import android.util.Log
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.kharismarizqii.resep_resep_an.R
 import com.kharismarizqii.resep_resep_an.databinding.ActivityMasakanBinding
 import com.kharismarizqii.resep_resep_an.model.Masakan
 import com.kharismarizqii.resep_resep_an.model.RecipeResponse
+import com.kharismarizqii.resep_resep_an.ui.login.LoginActivity
 import com.kharismarizqii.resep_resep_an.ui.resep.ResepActivity
 import com.kharismarizqii.resep_resep_an.utils.getJsonDataFromAsset
 
@@ -27,8 +29,19 @@ class MasakanActivity : AppCompatActivity() {
 
         supportActionBar?.hide()
 
+        binding.tvGreeting.text = "Selamat Datang, ${getString(R.string.username)}"
         getData()
+        binding.tvLogout.setOnClickListener {
+            logout()
+        }
 
+    }
+
+    private fun logout() {
+        Intent(this@MasakanActivity, LoginActivity::class.java).also {intent ->
+            intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK or Intent.FLAG_ACTIVITY_NEW_TASK
+            startActivity(intent)
+        }
     }
 
     private fun getData() {
@@ -66,4 +79,9 @@ class MasakanActivity : AppCompatActivity() {
         val recipeResponse : RecipeResponse = gson.fromJson(jsonFileString, listMasakanType)
         return recipeResponse
     }
+
+    override fun onBackPressed() {
+
+    }
+
 }
