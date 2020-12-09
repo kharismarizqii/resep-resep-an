@@ -1,4 +1,4 @@
-# Tugas RecyclerView Mobile Programming
+# UTS Mobile Programming
 
 Kharisma Rizqi Bakhittah
 1177050059
