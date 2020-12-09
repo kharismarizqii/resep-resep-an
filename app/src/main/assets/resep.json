@@ -1,5 +1,5 @@
 {
-    "jenis_masakan": 
+    "jenis_masakan":
     [
         {
             "id" : 1,
@@ -145,8 +145,43 @@
                             "deskripsi" : "Panggang dalam wajan anti lengket dengan sedikit air hingga matang. Angkat dan sajikan."
                         }
                     ]
+                },
+                {
+                    "id": 5,
+                    "nama": "Lontong Isi Ayam Teriyaki",
+                    "waktu" : "60 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/FOkAf/1509299964.png",
+                    "porsi" : 6,
+                    "gizi" : {
+                        "kalori" : 946,
+                        "protein" : 27,
+                        "karbo" : 115,
+                        "lemak" : 42,
+                        "serat" : 1
+                    },
+                    "rating" : 5,
+                    "desc" : "",
+                    "bahan" : "- 100 gr Beras Pulen\n- 3 sdm Beras Ketan\n- 80 gr Ayam Rebus Suwir\n- 20 gr Wortel Potong Dadu Kecil\n- 1 lbr Sawi Putih\n- 1 sdt Garam\n- 2 bks SAORI® Saus Teriyaki\n- 2 sdm Minyak Goreng\n- 250 ml Air\n- 6 lbr Daun Pisang",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Panaskan air, masak beras pulen dan beras ketan hingga air habis, angkat, bagi menjadi 6 bagian."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Buat isian : Panaskan minyak goreng, masukkan ayam, sawi putih, wortel, dan SAORI® Saus Teriyaki, tumis hingga matang, angkat."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Ambil daun pisang, tuang 1 bagian nasi, ratakan, beri 1/6 bagian tumisan ayam sayur teriyaki, gulung membentuk lontong dan bungkus."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Kukus selama 30 menit hingga matang. Angkat, sajikan."
+                        }
+                    ]
                 }
-                
+
             ]
         },
 
@@ -294,8 +329,43 @@
                             "deskripsi" : "Masukkan mie telur rebus dan Sajiku® Bumbu Nasi Goreng Rasa Ayam, aduk rata, angkat dan sajikan."
                         }
                     ]
+                },
+                {
+                    "id": 5,
+                    "nama": "Spaghetti Aglio Olio Sambal Matah Ala Delito®",
+                    "waktu" : "30 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/W6830/April-2019-WEBSITE2.jpg",
+                    "porsi" : 2,
+                    "gizi" : {
+                        "kalori" : 640,
+                        "protein" : 31,
+                        "karbo" : 41,
+                        "lemak" : 39,
+                        "serat" : 1
+                    },
+                    "rating" : 4.6,
+                    "desc" : "Masakan ala Italia dipadukan dengan citarasa asli Indonesia? Rasanya kayak gimana ya, Ma? Yuk coba masak Spaghetti Aglio Olio Sambal Matah! Dengan Delito, Saus pasta bubuk yang dibuat dari bahan berkualitas dan lengkap dengan bahan tambahan, masak hidangan ini jadi lebih praktis dan rasanya dijamin selezat di restoran! Bawang merah yang digunakan dalam sambal matah tak hanya memberi rasa segar, tapi juga bisa memperkuat sistem kekebalan tubuh karena mengandung polifenol!",
+                    "bahan" : "300 gr Spaghetti Rebus\n1 bks Delito® Bumbu Aglio Olio\n100 gr Daging Ayam\n3 sdm Minyak Goreng\n4 bh Cabai Rawit\n6 siung Bawang Merah\n1 btg Daun Bawang\n½ sdt Terasi\n1 btg Sereh",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris daun bawang, cabai rawit, bawang merah dan sereh. Potong ayam ukuran dadu besar, sisihkan."
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Panaskan minyak goreng, masukkan ayam, tumis hingga berubah warna."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Tambahkan cabai rawit, bawang merah, sereh dan terasi, aduk rata.."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Masukkan spaghetti, daun bawang dan Delito Bumbu Aglio Olio."
+                        }
+                    ]
                 }
-                
+
             ]
         },
 
@@ -443,8 +513,43 @@
                             "deskripsi" : "Masukkan AJI‑NO‑MOTO®, garam, dan merica lalu aduk rata. Tambahkan air dan potongan tomat. Masak hingga matang."
                         }
                     ]
+                },
+                {
+                    "id": 5,
+                    "nama": "Gurame Tahu Tausi Ala AJI‑NO‑MOTO®",
+                    "waktu" : "45 menit",
+                    "image" : "https://www.dapurumami.com/uploads/recipe/hl7w8/Gurame-Tahu-Tausi.jpg",
+                    "porsi" : 4,
+                    "gizi" : {
+                        "kalori" : 964,
+                        "protein" : 76,
+                        "karbo" : 103,
+                        "lemak" : 53,
+                        "serat" : 16
+                    },
+                    "rating" : 4.5,
+                    "desc" : "Mama suka masakan khas oriental? Sering lihat menu yang mengandung tausi? Tausi adalah bumbu yang terbuat dari fermentasi kacang kedelai hitam dan memiliki rasa yang cenderung ringan. Tausi cocok dimasak dengan ikan gurame, apalagi jika dibumbui dengan AJI‑NO‑MOTO® yang merupakan kelezatan bahan alami untuk menyedapkan masakan. Selain itu, ikan gurame juga mengandung vitamin E baik untuk membantu menjaga kesehatan rambut dan kulit!",
+                    "bahan" : "300 gr Ikan Gurame\n1 bh Tofu Telur Goreng\n2 sdm Kacang Tausi\n1 sdt AJI-NO-MOTO®\n2 suing Bawang Putih\n300 ml Air\n½ sdt Garam\n600 ml Minyak Goreng\n1 bks Sajiku® Tepung Bumbu\n½ bh Bawang Bombay\nLarutan Tapioka :\n½ Tepung Tapioka\nAir 2 sdm",
+                    "cara": [
+                        {
+                            "langkah" : 1,
+                            "deskripsi" : "Iris bawang putih, bawang bombay dan iris tofu setebal 1 cm, sisihkan"
+                        },
+                        {
+                            "langkah" : 2,
+                            "deskripsi" : "Lumuri ikan dengan Sajiku® Tepung Bumbu , goreng ikan dan tofu dalam minyak panas hingga matang, angkat tiriskan."
+                        },
+                        {
+                            "langkah" : 3,
+                            "deskripsi" : "Panaskan 2 sdm minyak, tumis bawang putih dan bombay hingga layu, tambahkan air, kacang tausi, tofu goreng, AJI‑NO‑MOTO® dan garam. Masak hingga mendidih."
+                        },
+                        {
+                            "langkah" : 4,
+                            "deskripsi" : "Tambahkan larutan tepung tapioka, masak hingga mengental. Kemudian siram di atas ikan goreng, sajikan."
+                        }
+                    ]
                 }
-                
+
             ]
         }
     ]
